@@ -87,7 +87,7 @@ function App() {
   return (
     <div>
       <div>
-        <h1>BlurHash Demo</h1>
+        <h1>BuildShip x BlurHash Demo</h1>
       </div>
       <div
         style={{
